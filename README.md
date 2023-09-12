@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
 ### Software Engineer @ Eightsoft | Computer Science Student @ Turin
-<em> Java, C++, Python, Data Structures and Algorithms </em>
+<em> Python, Java, C++, Data Structures and Algorithms </em>
 
 -  I'm currently learning Python, Backend, and Algorithms
 -  I like reading books
