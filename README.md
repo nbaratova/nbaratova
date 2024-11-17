@@ -1,4 +1,4 @@
-# Nasiba Baratova
+# Nasiba Alimova
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alimov-8" alt="Alimov-8" /> </p> -->
 
 ### Software Engineer | B.S. in Computer Science
